@@ -1,0 +1,72 @@
+date,team1,team2,toss_winner,Decision,powerplay_run1,first_score,first_wkts,powerplay_run2,second_score,second_wkts,winner,player_of_the_match,Stadium_Name,Location
+22-03-2024,Bangalore,Chennai,Bangalore,Bat,55,173,6,60,176,4,Chennai,Mustafizur Rahman,M. Chinnaswamy Stadium,Bangalore
+23-03-2024,Delhi,Punjab,Punjab,Field,52,174,9,64,177,6,Punjab,Sam Curran,Arun Jaitley Stadium,Delhi
+23-03-2024,Kolkata,Hyderabad,Hyderabad,Field,58,208,7,70,204,7,Kolkata,Andre Russell,Eden Gardens,Kolkata
+24-03-2024,Rajasthan,Lucknow,Rajasthan,Bat,57,193,4,68,173,6,Rajasthan,Sanju Samson,Sawai Mansingh Stadium,Jaipur
+24-03-2024,Gujarat,Mumbai,Mumbai,Field,54,168,6,62,162,9,Gujarat,Sai Sudharsan,Narendra Modi Stadium,Ahmedabad
+25-03-2024,Punjab,Bangalore,Bangalore,Field,50,176,6,61,178,6,Bangalore,Virat Kohli,Punjab Cricket Stadium,Mohali
+26-03-2024,Chennai,Gujarat,Gujarat,Field,60,206,6,67,143,8,Chennai,Shivam Dube,MA Chidambaram Stadium,Chennai
+27-03-2024,Hyderabad,Mumbai,Mumbai,Field,63,277,3,72,246,5,Hyderabad,Abhishek Sharma,Rajiv Gandhi Cricket Stadium,Hyderabad
+28-03-2024,Rajasthan,Delhi,Delhi,Field,55,185,5,64,173,5,Rajasthan,Riyan Parag,Sawai Mansingh Stadium,Jaipur
+29-03-2024,Bangalore,Kolkata,Kolkata,Field,52,182,6,66,186,3,Kolkata,Sunil Narine,M. Chinnaswamy Stadium,Bangalore
+30-03-2024,Lucknow,Punjab,Lucknow,Bat,57,199,8,65,178,5,Lucknow,Mayank Yadav,Ekana Stadium,Lucknow
+31-03-2024,Hyderabad,Gujarat,Hyderabad,Bat,51,162,8,60,168,3,Gujarat,Mohit Sharma,Rajiv Gandhi Cricket Stadium,Hyderabad
+31-03-2024,Delhi,Chennai,Delhi,Bat,54,191,5,62,171,6,Delhi,Khaleel Ahmed,Arun Jaitley Stadium,Delhi
+01-04-2024,Mumbai,Rajasthan,Rajasthan,Field,47,125,9,55,127,4,Rajasthan,Trent Boult,Wankhede Stadium,Mumbai
+02-04-2024,Lucknow,Bangalore,Bangalore,Field,52,181,5,60,153,10,Lucknow,Mayank Yadav,Ekana Stadium,Lucknow
+03-04-2024,Kolkata,Delhi,Kolkata,Bat,62,272,7,70,166,10,Kolkata,Sunil Narine,Eden Gardens,Kolkata
+04-04-2024,Gujarat,Punjab,Punjab,Field,55,199,4,62,200,7,Punjab,Shashank Singh,Narendra Modi Stadium,Ahmedabad
+05-04-2024,Chennai,Hyderabad,Hyderabad,Field,53,165,5,60,166,4,Hyderabad,Abhishek Sharma,MA Chidambaram Stadium,Chennai
+06-04-2024,Bangalore,Rajasthan,Rajasthan,Field,56,183,3,65,189,4,Rajasthan,Jos Buttler,M. Chinnaswamy Stadium,Bangalore
+07-04-2024,Mumbai,Delhi,Delhi,Field,59,234,5,67,205,8,Mumbai,Romario Shepherd,Wankhede Stadium,Mumbai
+07-04-2024,Lucknow,Gujarat,Lucknow,Bat,50,163,5,59,130,10,Lucknow,Yash Thakur,Ekana Stadium,Lucknow
+08-04-2024,Kolkata,Chennai,Chennai,Field,54,137,9,61,141,3,Chennai,Ravindra Jadeja,Eden Gardens,Kolkata
+09-04-2024,Hyderabad,Punjab,Punjab,Field,53,182,9,64,180,6,Hyderabad,Nitish Kumar Reddy,Rajiv Gandhi Cricket Stadium,Hyderabad
+10-04-2024,Rajasthan,Gujarat,Gujarat,Field,57,196,3,63,199,7,Gujarat,Rashid Khan,Sawai Mansingh Stadium,Jaipur
+11-04-2024,Bangalore,Mumbai,Mumbai,Field,58,196,8,66,199,3,Mumbai,Jasprit Bumrah,M. Chinnaswamy Stadium,Bangalore
+12-04-2024,Lucknow,Delhi,Lucknow,Bat,55,167,7,62,170,4,Delhi,Kuldeep Yadav,Ekana Stadium,Lucknow
+13-04-2024,Punjab,Rajasthan,Rajasthan,Field,52,147,8,60,152,7,Rajasthan,Shimron Hetmyer,Punjab Cricket Stadium,Mohali
+14-04-2024,Lucknow,Kolkata,Kolkata,Field,51,161,7,58,162,2,Kolkata,Phil Salt,Ekana Stadium,Lucknow
+14-04-2024,Chennai,Mumbai,Mumbai,Field,56,206,4,64,186,6,Chennai,Matheesha Pathirana,MA Chidambaram Stadium,Chennai
+15-04-2024,Hyderabad,Bangalore,Bangalore,Field,61,187,3,70,262,7,Hyderabad,Travis Head,Rajiv Gandhi Cricket Stadium,Hyderabad
+16-04-2024,Kolkata,Rajasthan,Rajasthan,Field,59,223,6,68,224,8,Rajasthan,Jos Buttler,Eden Gardens,Kolkata
+17-04-2024,Gujarat,Delhi,Delhi,Field,48,89,10,55,92,4,Delhi,Rishabh Pant,Narendra Modi Stadium,Ahmedabad
+18-04-2024,Mumbai,Punjab,Punjab,Field,54,192,7,63,183,10,Mumbai,Jasprit Bumrah,Wankhede Stadium,Mumbai
+19-04-2024,Chennai,Lucknow,Lucknow,Field,50,176,6,58,180,2,Lucknow,KL Rahul,MA Chidambaram Stadium,Chennai
+20-04-2024,Hyderabad,Delhi,Delhi,Field,64,266,7,71,199,10,Hyderabad,Travis Head,Rajiv Gandhi Cricket Stadium,Hyderabad
+21-04-2024,Kolkata,Bangalore,Bangalore,Field,56,222,6,67,221,10,Kolkata,Andre Russell,Eden Gardens,Kolkata
+21-04-2024,Punjab,Gujarat,Punjab,Bat,49,142,10,58,146,7,Gujarat,Sai Kishore,Punjab Cricket Stadium,Mohali
+22-04-2024,Mumbai,Rajasthan,Mumbai,Bat,52,179,9,61,183,1,Rajasthan,Sandeep Sharma,Wankhede Stadium,Mumbai
+23-04-2024,Chennai,Lucknow,Lucknow,Bat,57,210,4,66,213,4,Lucknow,Marcus Stoinis,MA Chidambaram Stadium,Chennai
+24-04-2024,Delhi,Gujarat,Gujarat,Field,56,224,4,64,220,8,Delhi,Rishabh Pant,Arun Jaitley Stadium,Delhi
+25-04-2024,Bangalore,Hyderabad,Bangalore,Bat,62,206,7,69,171,8,Bangalore,Rajat Patidar,M. Chinnaswamy Stadium,Bangalore
+26-04-2024,Kolkata,Punjab,Punjab,Field,59,261,6,67,262,2,Punjab,Jonny Bairstow,Eden Gardens,Kolkata
+27-04-2024,Delhi,Mumbai,Mumbai,Field,55,257,4,62,247,9,Delhi,Jake Fraser-McGurk,Arun Jaitley Stadium,Delhi
+27-04-2024,Lucknow,Rajasthan,Rajasthan,Field,54,196,5,63,199,3,Rajasthan,Sanju Samson,Ekana Stadium,Lucknow
+28-04-2024,Gujarat,Bangalore,Bangalore,Field,55,200,3,66,206,1,Bangalore,Will Jacks,Narendra Modi Stadium,Ahmedabad
+28-04-2024,Chennai,Hyderabad,Hyderabad,Field,58,212,3,63,134,10,Chennai,Ruturaj Gaikwad,MA Chidambaram Stadium,Chennai
+29-04-2024,Delhi,Kolkata,Delhi,Bat,52,153,9,57,157,3,Kolkata,Varun Chakravarthy,Arun Jaitley Stadium,Delhi
+30-04-2024,Mumbai,Lucknow,Lucknow,Field,52,144,7,58,145,6,Lucknow,Marcus Stoinis,Ekana Stadium,Lucknow
+01-05-2024,Chennai,Punjab,Punjab,Field,55,162,7,52,163,3,Punjab,Harpreet Brar,MA Chidambaram Stadium,Chennai
+02-05-2024,Hyderabad,Rajasthan,Hyderabad,Field,37,201,3,60,200,7,Hyderabad,Bhuvneshwae Kumar,Rajiv Gandhi Cricket Stadium,Hyderabad
+03-05-2024,Kolkata,Mumbai,Mumbai,Field,57,169,10,46,145,10,Kolkata,Venkatesh Iyer,Wankhede Stadium,Mumbai
+04-05-2024,Gujarat,Bangalore,Bangalore,Field,23,147,10,92,152,6,Bangalore,Mohammed Siraj,M. Chinnaswamy Stadium,Bangalore
+05-05-2024,Chennai,Punjab,Punjab,Field,60,167,9,47,139,9,Chennai,Ravindra Jadeja,Himachal Pradesh Stadium,Dharamshala
+05-05-2024,Kolkata,Lucknow,Kolkata,Bat,70,235,6,55,137,10,Kolkata,Sunil Narine,Ekana Stadium,Lucknow
+06-05-2024,Hyderabad,Mumbai,Mumbai,Field,56,173,8,52,174,3,Mumbai,Suryakumar Yadav,Wankhede Stadium,Mumbai
+07-05-2024,Delhi,Rajasthan,Rajasthan,Field,78,221,8,67,201,8,Delhi,Kuldeep Yadav,Arun Jaitley Stadium,Delhi
+08-05-2024,Lucknow,Hyderabad,Hyderabad,Field,27,165,4,107,167,0,Hyderabad,Travis Head,Rajiv Gandhi Cricket Stadium,Hyderabad
+09-05-2024,Bangalore,Punjab,Bangalore,Bat,56,241,7,75,181,10,Bangalore,Virat Kohli,Himachal Pradesh Stadium,Dharamshala
+10-05-2024,Gujarat,Chennai,Chennai,Field,58,231,3,43,196,8,Gujarat,Shubman Gill,Narendra Modi Stadium,Ahmedabad
+11-05-2024,Kolkata,Mumbai,Mumbai,Field,52,157,7,62,139,8,Kolkata,Varun Chakravarthy,Eden Gardens,Kolkata
+12-05-2024,Rajasthan,Chennai,Chennai,Field,42,141,5,56,145,5,Chennai,Simarjeet Singh,MA Chidambaram Stadium,Chennai
+12-05-2024,Bangalore,Delhi,Delhi,Field,61,187,9,54,140,10,Bangalore,Cameron Green,M. Chinnaswamy Stadium,Bangalore
+14-05-2024,Delhi,Lucknow,Lucknow,Field,73,208,4,59,189,9,Delhi,Ishant Sharma,Arun Jaitley Stadium,Delhi
+15-05-2024,Rajasthan,Punjab,Punjab,Field,38,144,9,39,145,5,Punjab,Sam Curran,ACA Stadium,Assam
+17-05-2024,Lucknow,Mumbai,Mumbai,Field,49,214,6,53,196,6,Lucknow,Nicholas Pooran,Wankhede Stadium,Mumbai
+18-05-2024,Bangalore,Chennai,Chennai,Field,42,218,5,58,191,7,Bangalore,Faf du plessis,M. Chinnaswamy Stadium,Bangalore
+19-05-2024,Punjab,Hyderabad,Hyderabad,Field,61,214,5,84,215,6,Hyderabad,Abhishek Sharma,Rajiv Gandhi Cricket Stadium,Hyderabad
+21-05-2024,Hyderabad,Kolkata,Kolkata,Field,45,159,10,63,164,2,Kolkata,Mitchell Starc,Narendra Modi Stadium,Ahmedabad
+22-05-2024,Bangalore,Rajasthan,Rajasthan,Field,50,172,8,47,174,6,Rajasthan,Ravichandran Ashwin,Narendra Modi Stadium,Ahmedabad
+24-05-2024,Hyderabad,Rajasthan,Rajasthan,Field,68,175,9,51,139,7,Hyderabad,Shahbaz Ahmed,MA Chidambaram Stadium,Chennai
+26-05-2024,Hyderabad,Kolkata,Kolkata,Field,40,113,10,72,114,2,Kolkata,Mitchell Starc,MA Chidambaram Stadium,Chennai
